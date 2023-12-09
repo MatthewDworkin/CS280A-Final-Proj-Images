@@ -1,0 +1,23 @@
+[
+    {
+        "source_path": "me2002.jpg",
+        "target_path": "me2004.jpg",
+        "category": "face",
+        "source_pose": "Unspecified",
+        "target_pose": "Unspecified",
+        "mirror": 0,
+        "viewpoint_variation": 0,
+        "target_bounding_box": [
+            110,
+            275,
+            227,
+            444
+        ],
+        "source_bounding_box": [
+            2,
+            1,
+            372,
+            500
+        ]
+    }
+]
