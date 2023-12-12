@@ -1,7 +1,7 @@
 [
     {
         "source_path": "frame1_masked.jpg",
-        "target_path": "oski_resized_masked.jpg",
+        "target_path": "oski_masked.jpg",
         "source_points": [
             [
                 10,
